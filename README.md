@@ -1,4 +1,4 @@
-Pyhton Project Homework//Nova Academy
+Pyhton Project with regard to system of student notes //Nova Academy
 
 Description:Make note system which including student names and their notes.Use a list to keep student names and notes.After that  make a dictionary about them and put them into list.  
 
